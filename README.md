@@ -4,6 +4,8 @@
 
 🔗 **[ツールを開く](https://image-splitter-1014371658424.asia-east1.run.app/)**
 
+![スクリーンショット](screenshot.png)
+
 ---
 
 ## 機能
